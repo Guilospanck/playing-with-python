@@ -55,3 +55,9 @@ Now you can install packages:
 ```sh
 python -m pip install <package-name>
 ```
+
+## Run application
+
+```sh
+python hello_world/app.py
+```
